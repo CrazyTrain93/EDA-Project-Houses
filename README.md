@@ -2,6 +2,8 @@
 
 Template for creating ds simple projects
 
+## You can find my EDA Project Notebook in the File: "EDA.ipynb"
+
 ## Requirements
 
 - pyenv
